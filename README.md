@@ -65,4 +65,6 @@
 * [静态播放动画](http://dabblet.com/gist/b7b53efcc2f933ca6d54)
 * [转动动画](http://dabblet.com/gist/87d80a51a5294ec07aea)
 * [转动动画2](http://dabblet.com/gist/6c647a5599dc11145f2c)
+* [呆萌小猫](http://dabblet.com/gist/a79285580394acc169acd4f8f71646e2)
+* [行走的大象](http://dabblet.com/gist/1232f13e0b867f3645b3ef1fb83f7d95)
 
